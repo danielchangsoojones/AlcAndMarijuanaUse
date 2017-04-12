@@ -1,2 +1,4 @@
 # AlcAndMarijuanaUse
 for the CS 1320 group project on the simultaneous use of alcohol and marijuana use
+We have both an admin portal and a user portal for our project. In order to run the user portal, please start on the landing.html page. When you click screening survey, it will ask you to sign up, then it will show the user portal. Our movement through the website will be different in production because we will be sending the user to the client's personal survey website, and then redirecting them back to our website. The client has not yet made that survey, but the webpages we have now are the ones that are necessary for our objectives.
+Then, there is an administrator portal. To load the administrator portal, please open the adminlogin.html.
